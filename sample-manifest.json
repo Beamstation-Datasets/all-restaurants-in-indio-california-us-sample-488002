@@ -1,0 +1,12 @@
+{
+  "export_job_id": "397ed77f-4907-4ab8-9095-03d742c2c861",
+  "id_short": 488002,
+  "published_at": "2026-04-16T20:00:11Z",
+  "repo_name": "all-restaurants-in-indio-california-us-sample-488002",
+  "sample_asset_name": "beamstation_488002_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/488002/beamstation_488002_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 7,
+  "sample_sha256": "5c5e7b2016ded8c8956ea7db2eac5e538aec185e24f1e122879bce020579fc6a",
+  "sample_size_bytes": 31955,
+  "total_records": 76
+}

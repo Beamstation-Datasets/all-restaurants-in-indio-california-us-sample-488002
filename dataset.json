@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Indio, California. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Indio, California, US",
-  "export_job_id": "397ed77f-4907-4ab8-9095-03d742c2c861",
+  "export_job_id": "673b2745-81e5-4d40-ad22-84c282eb1135",
   "github_org": "Beamstation-Datasets",
   "id_short": 488002,
   "location_name": "Indio",
   "location_type": "city",
   "repo_name": "all-restaurants-in-indio-california-us-sample-488002",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/488002/beamstation_488002_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.21,
+  "sample_pct": 9.09,
   "sample_records": 7,
   "sample_sha256": "5c5e7b2016ded8c8956ea7db2eac5e538aec185e24f1e122879bce020579fc6a",
   "sample_size_bytes": 31955,
-  "total_records": 76,
-  "updated_at": "2026-04-07T12:55:42.773856+00:00"
+  "total_records": 77,
+  "updated_at": "2026-04-14T12:48:44.651380+00:00"
 }

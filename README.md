@@ -9,9 +9,9 @@
 | Dataset ID | `488002` |
 | Location | Indio |
 | Category | Restaurants |
-| Full dataset size | 77 records |
-| Free sample size | 7 records (9.09%) |
-| Last export | 2026-04-14T12:48:44.651380+00:00 |
+| Full dataset size | 70 records |
+| Free sample size | 7 records (10.0%) |
+| Last export | 2026-04-21T13:36:17.026578+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-indio-california-us-sample-488002/releases/download/sample-latest/beamstation_488002_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
